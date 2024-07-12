@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>DataEngeneering101 | A Data Engeneering Documentation website</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on DataEngeneering101 | A Data Engeneering Documentation website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jul 2024 15:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 05:11:42 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Page</title>
-      <link>http://localhost:1313/docs/example-page/</link>
-      <pubDate>Fri, 12 Jul 2024 15:19:36 +0000</pubDate>
-      <guid>http://localhost:1313/docs/example-page/</guid>
-      <description>First Page linkthis is the first page.</description>
+      <link>http://localhost:1313/docs/parent-directory/example-page/</link>
+      <pubDate>Wed, 10 Jul 2024 11:14:37 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/example-page/</guid>
+      <description>sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts! John--&amp;gt;&amp;gt;Alice: Great! John-&amp;gt;&amp;gt;Bob: How about you? Bob--&amp;gt;&amp;gt;John: Jolly good! TEST&#xA;notifications This is the default alert. It consists of a default theme colour and icon. Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Tab 1 Tab 2 Tab 3 Tab 1 Content</description>
+    </item>
+    <item>
+      <title>Doc One</title>
+      <link>http://localhost:1313/docs/parent-directory/doc-one/</link>
+      <pubDate>Wed, 10 Jul 2024 11:37:52 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/doc-one/</guid>
+      <description>&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Buy cool new product&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;!-- Use action=&amp;#34;/create-checkout-session.php&amp;#34; if your server is PHP based. --&amp;gt; &amp;lt;form action=&amp;#34;/create-checkout-session&amp;#34; method=&amp;#34;POST&amp;#34;&amp;gt; &amp;lt;button type=&amp;#34;submit&amp;#34;&amp;gt;Checkout&amp;lt;/button&amp;gt; &amp;lt;/form&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; for i in range(10) : print(i) TEST link Windows MacOS Linux Windows Content&#xA;Example content specific to Windows operating systems&#xA;MacOS Content&#xA;Example content specific to Mac operating systems&#xA;Linux Content&#xA;Example content specific to Linux operating systems</description>
+    </item>
+    <item>
+      <title>Xyz</title>
+      <link>http://localhost:1313/docs/spark/api-reference/xyz/</link>
+      <pubDate>Thu, 11 Jul 2024 05:11:42 +0000</pubDate>
+      <guid>http://localhost:1313/docs/spark/api-reference/xyz/</guid>
+      <description>XYZ linkABCD link</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/spark/getting-started/</link>
+      <pubDate>Thu, 11 Jul 2024 03:53:01 +0000</pubDate>
+      <guid>http://localhost:1313/docs/spark/getting-started/</guid>
+      <description>Welcome to Spark Documentation linkWelcome to this comprehensive guide on Apache Spark! Spark is a powerful, open-source unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning, and graph processing. This documentation aims to help you understand and utilize Spark effectively for all your big data needs.&#xA;What You Will Find Here link Comprehensive Guides: Step-by-step tutorials to help you get started and master Spark. API Reference: Detailed descriptions of all functions and methods available in Spark.</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/pandas/getting-started/</link>
+      <pubDate>Thu, 11 Jul 2024 03:52:47 +0000</pubDate>
+      <guid>http://localhost:1313/docs/pandas/getting-started/</guid>
+      <description>Welcome to Pandas Documentation linkWelcome to this comprehensive guide on Pandas! Pandas is a powerful, open-source data manipulation and analysis library for Python. This documentation aims to help you understand and utilize Pandas effectively for all your data needs.&#xA;What You Will Find Here link Comprehensive Guides: Step-by-step tutorials to help you get started and master Pandas. API Reference: Detailed descriptions of all functions and methods available in Pandas..s Examples: Practical examples demonstrating how to use Pandas for various data tasks.</description>
+    </item>
+    <item>
+      <title>Doc Three</title>
+      <link>http://localhost:1313/docs/parent-directory/doc-three/</link>
+      <pubDate>Wed, 10 Jul 2024 11:40:48 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/doc-three/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

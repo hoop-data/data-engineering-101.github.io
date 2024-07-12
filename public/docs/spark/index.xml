@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spark on DataEngeneering101 | A Data Engeneering Documentation website</title>
+    <link>http://localhost:1313/docs/spark/</link>
+    <description>Recent content in Spark on DataEngeneering101 | A Data Engeneering Documentation website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2024 03:53:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/spark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/spark/getting-started/</link>
+      <pubDate>Thu, 11 Jul 2024 03:53:01 +0000</pubDate>
+      <guid>http://localhost:1313/docs/spark/getting-started/</guid>
+      <description>Welcome to Spark Documentation linkWelcome to this comprehensive guide on Apache Spark! Spark is a powerful, open-source unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine learning, and graph processing. This documentation aims to help you understand and utilize Spark effectively for all your big data needs.&#xA;What You Will Find Here link Comprehensive Guides: Step-by-step tutorials to help you get started and master Spark. API Reference: Detailed descriptions of all functions and methods available in Spark.</description>
+    </item>
+  </channel>
+</rss>

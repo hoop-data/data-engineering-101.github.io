@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parent Directory on DataEngeneering101 | A Data Engeneering Documentation website</title>
+    <link>http://localhost:1313/docs/parent-directory/</link>
+    <description>Recent content in Parent Directory on DataEngeneering101 | A Data Engeneering Documentation website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2024 11:40:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/parent-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Page</title>
+      <link>http://localhost:1313/docs/parent-directory/example-page/</link>
+      <pubDate>Wed, 10 Jul 2024 11:14:37 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/example-page/</guid>
+      <description>sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts! John--&amp;gt;&amp;gt;Alice: Great! John-&amp;gt;&amp;gt;Bob: How about you? Bob--&amp;gt;&amp;gt;John: Jolly good! TEST&#xA;notifications This is the default alert. It consists of a default theme colour and icon. Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Tab 1 Tab 2 Tab 3 Tab 1 Content</description>
+    </item>
+    <item>
+      <title>Doc One</title>
+      <link>http://localhost:1313/docs/parent-directory/doc-one/</link>
+      <pubDate>Wed, 10 Jul 2024 11:37:52 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/doc-one/</guid>
+      <description>&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Buy cool new product&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;!-- Use action=&amp;#34;/create-checkout-session.php&amp;#34; if your server is PHP based. --&amp;gt; &amp;lt;form action=&amp;#34;/create-checkout-session&amp;#34; method=&amp;#34;POST&amp;#34;&amp;gt; &amp;lt;button type=&amp;#34;submit&amp;#34;&amp;gt;Checkout&amp;lt;/button&amp;gt; &amp;lt;/form&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; for i in range(10) : print(i) TEST link Windows MacOS Linux Windows Content&#xA;Example content specific to Windows operating systems&#xA;MacOS Content&#xA;Example content specific to Mac operating systems&#xA;Linux Content&#xA;Example content specific to Linux operating systems</description>
+    </item>
+    <item>
+      <title>Doc Three</title>
+      <link>http://localhost:1313/docs/parent-directory/doc-three/</link>
+      <pubDate>Wed, 10 Jul 2024 11:40:48 +0000</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/doc-three/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
