@@ -1,4 +1,4 @@
-baseURL = 'http://hoop-data.github.io/'
+baseURL = 'https://hoop-data.github.io/data-engineering-101.github.io/'
 languageCode = 'en-us'
 title = "DataEngeneering101 | A Data Engeneering Documentation website"
 # theme = "lotusdocs"
