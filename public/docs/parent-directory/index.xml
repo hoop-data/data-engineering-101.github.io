@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parent Directory on DataEngeneering101 | A Data Engeneering Documentation website</title>
+    <title>Random Directory on DataEngeneering101 | A Data Engeneering Documentation website</title>
     <link>http://localhost:1313/docs/parent-directory/</link>
-    <description>Recent content in Parent Directory on DataEngeneering101 | A Data Engeneering Documentation website</description>
+    <description>Recent content in Random Directory on DataEngeneering101 | A Data Engeneering Documentation website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2024 11:40:48 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Wed, 10 Jul 2024 11:14:37 +0000</pubDate>
       <guid>http://localhost:1313/docs/parent-directory/example-page/</guid>
       <description>sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts! John--&amp;gt;&amp;gt;Alice: Great! John-&amp;gt;&amp;gt;Bob: How about you? Bob--&amp;gt;&amp;gt;John: Jolly good! TEST&#xA;notifications This is the default alert. It consists of a default theme colour and icon. Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Tab 1 Tab 2 Tab 3 Tab 1 Content</description>
+    </item>
+    <item>
+      <title>Quickstart</title>
+      <link>http://localhost:1313/docs/parent-directory/example-page-1/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/example-page-1/</guid>
+      <description>Create New Content linkNavigate to the root of your Hugo project and use the hugo new command to create a file in the content/docs directory:&#xA;hugo new docs/examplepage.md &amp;hellip;</description>
     </item>
     <item>
       <title>Doc One</title>

@@ -16,6 +16,13 @@
       <description>sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you? loop Healthcheck John-&amp;gt;&amp;gt;John: Fight against hypochondria end Note right of John: Rational thoughts! John--&amp;gt;&amp;gt;Alice: Great! John-&amp;gt;&amp;gt;Bob: How about you? Bob--&amp;gt;&amp;gt;John: Jolly good! TEST&#xA;notifications This is the default alert. It consists of a default theme colour and icon. Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 Tab 1 Tab 2 Tab 3 Tab 1 Content</description>
     </item>
     <item>
+      <title>Quickstart</title>
+      <link>http://localhost:1313/docs/parent-directory/example-page-1/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://localhost:1313/docs/parent-directory/example-page-1/</guid>
+      <description>Create New Content linkNavigate to the root of your Hugo project and use the hugo new command to create a file in the content/docs directory:&#xA;hugo new docs/examplepage.md &amp;hellip;</description>
+    </item>
+    <item>
       <title>Doc One</title>
       <link>http://localhost:1313/docs/parent-directory/doc-one/</link>
       <pubDate>Wed, 10 Jul 2024 11:37:52 +0000</pubDate>
