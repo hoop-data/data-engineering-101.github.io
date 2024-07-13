@@ -51,6 +51,13 @@
       <description>Welcome to Pandas Documentation linkWelcome to this comprehensive guide on Pandas! Pandas is a powerful, open-source data manipulation and analysis library for Python. This documentation aims to help you understand and utilize Pandas effectively for all your data needs.&#xA;What You Will Find Here link Comprehensive Guides: Step-by-step tutorials to help you get started and master Pandas. API Reference: Detailed descriptions of all functions and methods available in Pandas..s Examples: Practical examples demonstrating how to use Pandas for various data tasks.</description>
     </item>
     <item>
+      <title>Pizza</title>
+      <link>http://localhost:1313/blogs/recipies/pizza/</link>
+      <pubDate>Thu, 11 Jul 2024 03:47:11 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/recipies/pizza/</guid>
+      <description>first blog link x = [&amp;#39;😭&amp;#39;, &amp;#39;😄&amp;#39;, &amp;#39;😂&amp;#39;] </description>
+    </item>
+    <item>
       <title>test</title>
       <link>http://localhost:1313/blogs/tutorials/test/</link>
       <pubDate>Thu, 11 Jul 2024 03:47:11 +0000</pubDate>
