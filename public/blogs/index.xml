@@ -6,14 +6,7 @@
     <description>Recent content in Blogs on DataEngeneering101 | A Data Engeneering Documentation website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2024 03:47:11 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>http://localhost:1313/blogs/test/</link>
-      <pubDate>Thu, 11 Jul 2024 03:47:11 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/test/</guid>
-      <description>first blog x = [&amp;#39;😭&amp;#39;, &amp;#39;😄&amp;#39;] </description>
-    </item>
   </channel>
 </rss>

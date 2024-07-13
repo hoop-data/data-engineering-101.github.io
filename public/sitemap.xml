@@ -26,13 +26,19 @@
     <loc>http://localhost:1313/docs/pandas/</loc>
     <lastmod>2024-07-11T03:47:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>http://localhost:1313/blogs/tutorials/</loc>
     <lastmod>2024-07-11T03:47:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/spark/</loc>
     <lastmod>2024-07-11T03:47:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/test/</loc>
+    <lastmod>2024-07-11T03:47:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/tutorials/test/</loc>
+    <lastmod>2024-07-11T03:47:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2024-07-11T03:47:11+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/parent-directory/doc-three/</loc>
