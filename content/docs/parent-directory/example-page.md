@@ -22,7 +22,7 @@ John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ``` 
 
-[TEST](/docs/doc-one)
+[TEST](/docs/parent-directory/doc-one)
 
 
 {{< alert text="This is the default alert. It consists of a default theme colour and icon." />}}
