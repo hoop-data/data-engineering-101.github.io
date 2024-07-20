@@ -64,11 +64,11 @@ featureGrid:
       description: Explore various APIs and errors with examples in Pyspark, Scala and Spark SQL. # 5
       ctaLink: # 6
         text: learn more
-        url: /docs/spark/getting-started/
+        url: "docs/spark/getting-started/"
 
     - title: Pandas
       icon: trending_up
       description: Explore various APIs, errors, tutorials and best practices with examples in Python.
       ctaLink: # 6
         text: learn more
-        url: /docs/pandas/getting-started/
+        url: "/docs/pandas/getting-started/"
