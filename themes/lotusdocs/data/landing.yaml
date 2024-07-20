@@ -71,4 +71,4 @@ featureGrid:
       description: Explore various APIs, errors, tutorials and best practices with examples in Python.
       ctaLink: # 6
         text: learn more
-        url: "/docs/pandas/getting-started/"
+        url: "docs/pandas/getting-started/"
